@@ -1,8 +1,8 @@
 ### Hi there 👋 I'm Matthew Sanchez
 
-I am a software developer from a social work background.
+I am a software engineer from a social work background.
 
-I began my coding journey in April of 2023 and my goal now is to apply my developer skills to further my career as a software developer.
+I began my coding journey in April of 2023 and my goal now is to apply my developer skills to further my career as a software engineer.
 
 I am proficent in Javascript and React. I am currently learning python.
 
