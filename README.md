@@ -8,7 +8,7 @@ I am proficent in Javascript and React. I am currently learning python.
 
 I love making applications with simple UIs and helpful form validation.
 
-Other than coding during my freetime I love to watch sports, specifically baseball. I am a baseball nut I love player sabermetrics and analyzing the game beyond the game. I also love gaming!
+Other than coding during my freetime I love to watch sports, specifically baseball. I am a baseball nut and I love player sabermetrics and analyzing the game beyond the game. I also love gaming!
 
 
 <!--
